@@ -1,4 +1,4 @@
-package com.estudo.carol.estudo_carol.Variavel.Variaveis;
+package com.estudo.carol.estudo_carol.Variavel;
 
 public class VariaveisBoolean {
     public  static  void  main(String[] args){
