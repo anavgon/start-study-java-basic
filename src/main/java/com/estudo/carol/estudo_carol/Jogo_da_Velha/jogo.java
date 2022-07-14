@@ -57,7 +57,7 @@ public class jogo {
             //imprimir tabuleiro
             for (int i = 0; i < jogoVelha.length; i++) {
                 for (int j = 0; j < jogoVelha[i].length; j++) {
-                    System.out.println(jogoVelha[i][j] + " | ");
+                    System.out.print(jogoVelha[i][j] + " | ");
                 }
                 System.out.println();
             }
